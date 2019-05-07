@@ -7,10 +7,10 @@
 	Deploy automático
 
 
-	''' bash 
-	commit -m "comentario"
+``` bash 
+		commit -m "comentario"
 
-	'''
+```
 
 
 ##Acesse aqui
