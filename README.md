@@ -7,14 +7,13 @@
 	Deploy automático
 
 
-	``` 
-	bash 
-		commit -m "comentario"
+	```bash 
+	commit -m "comentario"
 	```
 
 
 ## Acesse aqui
-	[Blog] (https://develi.netlify.com/)
+	[Blog](https://develi.netlify.com/)
 
 ## README
-	[Makereadme] (https://www.makeareadme.com/)
+	[Makereadme](https://www.makeareadme.com/)
